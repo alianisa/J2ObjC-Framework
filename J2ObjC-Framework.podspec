@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage        = "https://actor.im/"
   s.license         = { :type => 'MIT', :file => 'LICENSE' }
   s.author       		= { "Actor LLC" => "steve@actor.im" }
-  s.source          = { :git => "https://github.com/aloim/J2ObjC-Framework.git", :commit => '4c95b059da39d8f17dc6aa3cab285fc0ed41848d' }
+  s.source          = { :git => "https://github.com/aloim/J2ObjC-Framework.git" }
 
   s.ios.deployment_target = "8.0"
   s.osx.deployment_target = "10.11"
