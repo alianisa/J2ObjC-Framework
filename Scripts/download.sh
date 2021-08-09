@@ -1,7 +1,7 @@
 #!/bin/bash
 set -ev
 
-j2objc_version=2.8
+j2objc_version=2.7
 link=https://github.com/google/j2objc/releases/download/${j2objc_version}/j2objc-${j2objc_version}.zip
 #link=http://localhost/j2objc-2.5.zip
 #sha1_checksum=a62807929c2583a03cc73d57ce67fc5730cf24b7
